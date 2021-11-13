@@ -4,7 +4,7 @@ Es un patron de comportamiento. [Link descripción](https://sourcemaking.com/desi
 
 El patrón observer permite a los implementadores de la interfaz observer suscribirse a sujetos y recibir notificaciones de actualización en el sujeto
 
-## Diagrama uml
+## Diagrama de clases
 ![UML](observer.jpg)
 ## SOLID
 
